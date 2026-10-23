@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathOfBuilding>
+	<Mode mode="BUILD">
+		<Arg string="C:/Users/Luan/Documents/Path of Building/Builds/REDVILES KB.xml"/>
+		<Arg string="REDVILES KB"/>
+	</Mode>
+	<Accounts lastAccountName="1_mana_left#5237" lastRealm="PC" tokenExpiry="nil">
+		<Account accountName="Pohx#1588"/>
+		<Account accountName="1_mana_left#5237"/>
+		<Account accountName="Bl4ck00C4t#7770"/>
+		<Account accountName="LuanFromBrazil#4503"/>
+		<Account accountName="KnightAngelSz#2020"/>
+		<Account accountName="thallecoplay#0670"/>
+	</Accounts>
+	<SharedItems/>
+	<Misc lastExportedWebsite="POBBin" defaultCharLevel="1" showAllItemAffixes="true" showAnimations="true" showFlavourText="true" buildSortMode="CLASS" showPublicBuilds="true" nodePowerTheme="RED/BLUE" colorHighlight="^xFF0000" colorPositive="^x33FF77" invertSliderScrollDirection="false" colorNegative="^xDD0022" connectionProtocol="0" betaTest="false" showThousandsSeparators="true" useCompactValues="false" edgeSearchHighlight="true" thousandsSeparator="," disableDevAutoSave="false" decimalSeparator="." disableScrollControlInteraction="false" defaultItemAffixQuality="0.5" showTitlebarName="true" dpiScaleOverridePercent="0" showWarnings="true" slotOnlyTooltips="true" migrateEldritchImplicits="true" notSupportedModTooltips="true" defaultGemQuality="0"/>
+</PathOfBuilding>
